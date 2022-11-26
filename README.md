@@ -26,10 +26,10 @@ static boolean recopilador(int[] redesSociales)
 -Este método coge las variables de arriba declaradas y las recopila para mostrar el resultado del test.
 
 Y tendremos las siguientes variables:
-* Para el metodo menu
-		static String eleccionUsuario;
+Para el metodo menu
+- static String eleccionUsuario
 		
-* Para el metodo test y recopilador
+Para el metodo test y recopilador
 		
 - Array para las 10 preguntas del test
 		static String[] pregunta = new String[10]
