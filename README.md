@@ -26,6 +26,7 @@ static boolean recopilador(int[] redesSociales)
 -Este método coge las variables de arriba declaradas y las recopila para mostrar el resultado del test.
 
 Y tendremos las siguientes variables:
+
 Para el metodo menu
 - static String eleccionUsuario
 		
