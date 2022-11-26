@@ -13,41 +13,41 @@ static void menu()
 - Este metodo inicia el menu del test.
 
 static void creditos()
--Este metodo inicia los creditos de nuestro grupo.
+- Este metodo inicia los creditos de nuestro grupo.
 
 static void test()
--Este metodo inicia el test de personalidad.
+- Este metodo inicia el test de personalidad.
 
 static boolean preguntas()
--Este metodo hace la condicion de cada pregunta en funcion de su valor asigna un valor a las variables instagram,twitter,tikTok y twitch para su posterior 
+- Este metodo hace la condicion de cada pregunta en funcion de su valor asigna un valor a las variables instagram,twitter,tikTok y twitch para su posterior 
 resultado del test.
 
 static boolean recopilador(int[] redesSociales)
 -Este método coge las variables de arriba declaradas y las recopila para mostrar el resultado del test.
 
 Y tendremos las siguientes variables:
-*Para el metodo menu
+* Para el metodo menu
 		static String eleccionUsuario;
 		
-*Para el metodo test y recopilador
+* Para el metodo test y recopilador
 		
--Array para las 10 preguntas del test
+- Array para las 10 preguntas del test
 		static String[] pregunta = new String[10]
 	
--Array para las respuestas de las preguntas 
+- Array para las respuestas de las preguntas 
 		static int redesSociales[] = { 0, 0, 0, 0 }
 	
--Variables para array redesSociales[] para entender lo que estamos sumando
+- Variables para array redesSociales[] para entender lo que estamos sumando
 		static int instagram = 0
 		static int twitter = 1
 		static int tikTok = 2
 		static int twitch = 3
 	
 	
--Variable boolean para las preguntas para que condicione el que siga los bucles o no
+- Variable boolean para las preguntas para que condicione el que siga los bucles o no
 		static boolean acertado = false
 		
--Strings para el recopilador
+- Strings para el recopilador
 		static String primerValor
 		static String ultimoValor
 		static String mensajeUsual
