@@ -6,7 +6,7 @@ El test está sin tildes y sin caracteres raros para que se puedea ejecutar corr
 En este test tendremos los siguientes métodos:
 
 public class ClassTestPersonalidad 
--Aquí declaramos las arrays y variables de estas para el recopilador.
+- Aquí declaramos las arrays y variables de estas para el recopilador.
 
 public static void main(String[] args) 
 - Este es el metodo principal del Proyecto.
