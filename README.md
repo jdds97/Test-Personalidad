@@ -35,23 +35,23 @@ Para el metodo menu
 Para el metodo test y recopilador
 		
 - Array para las 10 preguntas del test
-		static String[] pregunta = new String[10]
+		- static String[] pregunta = new String[10]
 	
 - Array para las respuestas de las preguntas 
-		static int redesSociales[] = { 0, 0, 0, 0 }
+		- static int redesSociales[] = { 0, 0, 0, 0 }
 	
 - Variables para array redesSociales[] para entender lo que estamos sumando
-		static int instagram = 0
-		static int twitter = 1
-		static int tikTok = 2
-		static int twitch = 3
+		- static int instagram = 0
+		- static int twitter = 1
+		- static int tikTok = 2
+		- static int twitch = 3
 	
 	
 - Variable boolean para las preguntas para que condicione el que siga los bucles o no
-		static boolean acertado = false
+		- static boolean acertado = false
 		
 - Strings para el recopilador
-		static String primerValor
-		static String ultimoValor
-		static String mensajeUsual
-		static String mensajeInusual
+		- static String primerValor
+		- static String ultimoValor
+		- static String mensajeUsual
+		- static String mensajeInusual
