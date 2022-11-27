@@ -1,5 +1,6 @@
 # Test-Personalidad
-Test de personalidad realizado por Jesús de Dios Sánchez,Alberto Asuaje Nunes y Eduardo Romero Otero 
+Test de personalidad realizado por Jesús de Dios Sánchez,Alberto Asuaje Nunes y Eduardo Romero Otero .
+
 El test está sin tildes y sin caracteres raros para que se puedea ejecutar correctamente sin caracteres alterados.
 En este test tendremos los siguientes métodos:
 
